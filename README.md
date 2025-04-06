@@ -8,8 +8,4 @@
 Поиск заметок по тегу
 Автоматическое сохранение данных в файл notes_data.json
 
-notes_main.py   
-notes_data.json 
 
-Убедитесь, что у вас установлен Python 3.7+.
-pip install pyqt5
